@@ -1,3 +1,7 @@
 # Projeto de calculadora
 
-Esse projeto foi criado para realizar teste em commits, push e merge para maior elucidação de suas funções.
+Esse projeto de empregabilidade foi criado para elucidar o uso das funções do github.
+
+Essa calculadora foi feita em C# para rodar via terminal.
+
+OBS.: Ele não foi compilado.

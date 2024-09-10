@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o e Ester\\source\\repos\\Calculadora\\Calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o e Ester\\source\\repos\\Calculadora\\Calculadora\\Program.cs*",
-              "RelativeToolTip": "Calculadora\\Program.cs*",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE0AAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Jo\u00E3o e Ester\\source\\repos\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T22:12:44.512Z",
               "EditorCaption": ""
